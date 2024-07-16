@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.trino</groupId>
-    <artifactId>trino-jwt-token-generator</artifactId>
+    <artifactId>trino-jwt-gen-cli</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
