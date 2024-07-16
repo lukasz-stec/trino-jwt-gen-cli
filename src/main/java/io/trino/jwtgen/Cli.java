@@ -19,7 +19,7 @@ import picocli.CommandLine;
         name = "trino-jwt-gen-cli",
         usageHelpAutoWidth = true,
         subcommands = {
-                UseInternalAuthenticationCommand.class,
+                ExecuteInternalHttpRequestCommand.class,
                 GenerateJwtTokenCommand.class
         }
 )
